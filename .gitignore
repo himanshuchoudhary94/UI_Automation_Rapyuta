@@ -1,0 +1,13 @@
+*.log
+.idea/workspace.xml
+.idea/workspace.xml
+*.pyc
+.idea
+.DS_Store
+.DS_Store/*
+*.cache
+*.pyc
+/main.py
+venv/
+/.pytest_cache
+*.idea
